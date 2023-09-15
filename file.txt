@@ -2,3 +2,5 @@ this line is written in develop branch
 
 this line is feature1
 this line is also feature1
+
+this line was missing from feature1
