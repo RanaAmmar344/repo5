@@ -7,3 +7,5 @@ this line is also feature1
 this line was missing from feature1
 
 this is new line
+
+this is stash line
